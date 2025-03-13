@@ -3,7 +3,7 @@
 Classic Snake Game built with HTML, CSS, and JavaScript.
 
 ## 🎮 Play it here:
-👉 [Live Demo](https://your-username.github.io/snake-game/)
+👉 [Live Demo](https://GeoChriss.github.io/snake-game/)
 
 ## 🚀 Features
 - Power-ups (slow-down clock)

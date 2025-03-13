@@ -8,7 +8,6 @@ Classic Snake Game built with HTML, CSS, and JavaScript.
 ## 🚀 Features
 - Power-ups (slow-down clock)
 - Dynamic tongue animation
-- Y-shaped snake tongue
 - Score tracking
 
 ## 📦 How to Use
